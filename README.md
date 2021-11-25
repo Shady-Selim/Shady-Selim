@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on KMM
 - 🌱 I’m currently learning Jetpack Compose and SwiftUI
 - 💬 Ask me about Mobile Developement
-- 📫 How to reach me: (https://www.linkedin.com/in/shadyselim)linkedin.com/in/shadyselim
+- 📫 How to reach me: [linkedin.com/in/shadyselim](https://www.linkedin.com/in/shadyselim)
 - 😄 Pronouns: Sh(a)dy
 - ⚡ Fun fact: I had to work hard to make any one search for "Shady Selim" to find me instead of "Eminem" :)
 
