@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
-- 🔭 I’m currently working on KMM
-- 🌱 I’m currently learning Jetpack Compose and SwiftUI
+- 🔭 I’m currently working on new Era ready mobile developers enablement
+- - 👯 I’m looking to collaborate on creating free Kotlin courses
+- 🌱 I’m currently learning KMM, Jetpack Compose, SwiftUI, plus Product Management
 - 💬 Ask me about Mobile Developement
 - 📫 How to reach me: [linkedin.com/in/shadyselim](https://www.linkedin.com/in/shadyselim)
 - 😄 Pronouns: Sh(a)dy
-- ⚡ Fun fact: I had to work hard to make any one search for "Shady Selim" to find me instead of "Eminem" :)
+- ⚡ Fun fact: Spent good time on self branding to make sure any one search for ✨"Shady Selim"✨ to find me instead of "Eminem"'s 'Slim shady'  :)
 
