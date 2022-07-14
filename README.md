@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning KMM, Jetpack Compose, SwiftUI, plus Product Management
 - 💬 Ask me about Mobile Developement
 - 📫 How to reach me: [linkedin.com/in/shadyselim](https://www.linkedin.com/in/shadyselim)
-- 😄 Pronouns: Sh(a)dy
+- 😄 Pronouns: Sh(aa)dy
 - ⚡ Fun fact: Spent good time on self branding to make sure any one search for ✨"Shady Selim"✨ to find me instead of "Eminem"'s 'Slim shady'  :)
-- 🤔 I’m :
+- 🤔 I :
   - Embrace and love work challenges
   - Constantly learn, relearn, and unlearn current and new technologies
-  - Easily adsorb new staff and share it back it a simpler form
+  - Easily adsorb new staff and share it back in a simpler form
