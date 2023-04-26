@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm ✨ Shady Selim ✨
-![Twitter Follow](https://img.shields.io/twitter/follow/dr_Shady_Selim?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCxli98N2RGm8mvdFyuoBfZQ?style=social)
+<a href="">![Twitter Follow](https://img.shields.io/twitter/follow/dr_Shady_Selim?style=social)</a> ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCxli98N2RGm8mvdFyuoBfZQ?style=social)
 <!--
 **Shady-Selim/Shady-Selim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
