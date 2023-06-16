@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 ## &#x1f4c8; My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shady-Selim&hide=html,css&theme=dracula)](https://github.com/Shady-Selim/github-readme-stats)
 
-[![Shady Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shady-Selim&theme=onedark)](https://github.com/Shady-Selim/github-readme-stats)
+[![Shady Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shady-Selim&theme=radical)](https://github.com/Shady-Selim/github-readme-stats)
