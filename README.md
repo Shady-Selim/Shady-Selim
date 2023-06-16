@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/android-studio-logo.svg" alt="android studio Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="kotlin Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/swift-15" alt="swift Logo" width="50" height="50"/>
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shady-Selim&hide=java,html,css&theme=radical)](https://github.com/Shady-Selim/github-readme-stats)
+## &#x1f4c8; My GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shady-Selim&theme=tokyonight)](https://github.com/Shady-Selim/github-readme-stats)
 
-[![Shady Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shady-Selim&theme=radical)](https://github.com/Shady-Selim/github-readme-stats)
+[![Shady Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shady-Selim&theme=synthwave)](https://github.com/Shady-Selim/github-readme-stats)
