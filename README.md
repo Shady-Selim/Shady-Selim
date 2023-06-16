@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/android-studio-logo.svg" alt="android studio Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="kotlin Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/swift-15" alt="swift Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/android-studio-logo.svg" alt="android studio Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="kotlin Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="swift Logo" width="50" height="50"/>
 ---
 
 ## &#x1f4c8; My GitHub Stats
