@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm ✨ Shady Selim ✨
-<a href="https://twitter.com/dr_Shady_Selim" target="_blank">![Twitter Follow](https://img.shields.io/twitter/follow/dr_Shady_Selim?style=social)</a> ![GitHub followers](https://img.shields.io/github/followers/shady-selim?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/shady-selim?style=social) <a href="https://www.youtube.com/@Shady-Selim" target="_blank">![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCxli98N2RGm8mvdFyuoBfZQ?style=social)</a> ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxli98N2RGm8mvdFyuoBfZQ?style=social)
+![GitHub followers](https://img.shields.io/github/followers/shady-selim?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/shady-selim?style=social) <a href="https://twitter.com/dr_Shady_Selim" target="_blank">![Twitter Follow](https://img.shields.io/twitter/follow/dr_Shady_Selim?style=social)</a> <a href="https://www.youtube.com/@Shady-Selim" target="_blank">![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCxli98N2RGm8mvdFyuoBfZQ?style=social)</a> ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxli98N2RGm8mvdFyuoBfZQ?style=social)
 <!--
 **Shady-Selim/Shady-Selim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,9 +19,10 @@ Here are some ideas to get you started:
   - Constantly learn, relearn, and unlearn current and new technologies
   - Easily adsorb new staff and share it back in a simpler form
 ---
-🧰 Toolbox
+## 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/android-studio-logo.svg" alt="android studio Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="kotlin Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="swift Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/android-studio-logo.svg" alt="android studio Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="kotlin Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="swift Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/apple-ios.svg" alt="apple-ios Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/apple.svg" alt="apple Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/youtube.svg" alt="youtube Logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio-original.svg" alt="androidstudio-original Logo" width="50" height="50"/> 
+          
 ---
 
 ## &#x1f4c8; My GitHub Stats
