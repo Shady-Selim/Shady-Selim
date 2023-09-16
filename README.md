@@ -19,6 +19,28 @@ Here are some ideas to get you started:
   - Constantly learn, relearn, and unlearn current and new technologies
   - Easily adsorb new staff and share it back in a simpler form
 ---
+
+📺 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+
+▶ [...more YouTube videos](https://www.youtube.com/c/ShadySelimTube?view_as=subscribe&sub_confirmation=1)
+
+---
+
+📘 Latest Blog Articles
+<!-- 
+< BLOG-POST-LIST:START >
+< BLOG-POST-LIST:END >
+ -->
+▶ [...more blog articles]([LinkedIn Articles](https://www.linkedin.com/in/shadyselim/recent-activity/articles/))
+
+▶ [...more posts]([LinkedIn Posts](https://www.linkedin.com/in/shadyselim/recent-activity/all/))
+
+
+---
 ## 🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/android-studio-logo.svg" alt="android studio Logo" width="150" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="kotlin Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="swift Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/apple-ios.svg" alt="apple-ios Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/apple.svg" alt="apple Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/youtube.svg" alt="youtube Logo" width="150" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="figma Logo" width="150" height="50"/> 
