@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Shady-Selim/Shady-Selim@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://catalins.tech/rss.xml"
