@@ -25,7 +25,7 @@ Here are some ideas to get you started:
          <!-- https://cdn.jsdelivr.net/gh/devicons/devicon/icons//androidstudio-original.svg -->
 ---
 
-📺 Latest YouTube Videos
+## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 <!-- YOUTUBE-VIDEOS-LIST:END -->
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ---
 
-📘 Latest Blog Articles
+## 📘 Latest Blog Articles
 <!-- 
 < BLOG-POST-LIST:START >
 < BLOG-POST-LIST:END >
