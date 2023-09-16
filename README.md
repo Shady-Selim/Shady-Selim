@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How and Why to #compose by @Shady-Selim  &lpar;Extended&rpar;](https://www.youtube.com/watch?v=2YcYWDZJ2hQ)
+- [How and Why to Compose by Shady Selim](https://www.youtube.com/watch?v=5nK5Jy1ej7E)
+- [Starting your Compose Multiplatform project from scratch - #KotlinConf23 Global](https://www.youtube.com/watch?v=r5WKQ7F4vpM)
+- [Compose Multiplatform on iOS - #KotlinConf23 Global](https://www.youtube.com/watch?v=WVSq-CQ0QRU)
+- [Kotlin &amp; Compose Updates - #KotlinConf23 Global](https://www.youtube.com/watch?v=_vnGTaL285E)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶ [...more YouTube videos](https://www.youtube.com/c/ShadySelimTube?view_as=subscribe&sub_confirmation=1)
