@@ -27,12 +27,16 @@ Here are some ideas to get you started:
 
 ## 📺 Latest YouTube Videos
 
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [How and Why to #compose by @Shady-Selim  &lpar;Extended&rpar;](https://www.youtube.com/watch?v=2YcYWDZJ2hQ)
-- [How and Why to Compose by Shady Selim](https://www.youtube.com/watch?v=5nK5Jy1ej7E)
-- [Starting your Compose Multiplatform project from scratch - #KotlinConf23 Global](https://www.youtube.com/watch?v=r5WKQ7F4vpM)
-- [Compose Multiplatform on iOS - #KotlinConf23 Global](https://www.youtube.com/watch?v=WVSq-CQ0QRU)
-- [Kotlin &amp; Compose Updates - #KotlinConf23 Global](https://www.youtube.com/watch?v=_vnGTaL285E)
+<!-- YOUTUBE-VIDEOS-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2YcYWDZJ2hQ"><img width="140px" src="http://img.youtube.com/vi/2YcYWDZJ2hQ/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2YcYWDZJ2hQ">How and Why to #compose by @Shady-Selim  &lpar;Extended&rpar;</a><br/>Aug 12, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5nK5Jy1ej7E"><img width="140px" src="http://img.youtube.com/vi/5nK5Jy1ej7E/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5nK5Jy1ej7E">How and Why to Compose by Shady Selim</a><br/>Aug 2, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=r5WKQ7F4vpM"><img width="140px" src="http://img.youtube.com/vi/r5WKQ7F4vpM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=r5WKQ7F4vpM">Starting your Compose Multiplatform project from scratch - #KotlinConf23 Global</a><br/>Jun 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=WVSq-CQ0QRU"><img width="140px" src="http://img.youtube.com/vi/WVSq-CQ0QRU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WVSq-CQ0QRU">Compose Multiplatform on iOS - #KotlinConf23 Global</a><br/>Jun 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_vnGTaL285E"><img width="140px" src="http://img.youtube.com/vi/_vnGTaL285E/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_vnGTaL285E">Kotlin &amp; Compose Updates - #KotlinConf23 Global</a><br/>Jun 3, 2023</td></tr></table>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶ [...more YouTube videos](https://www.youtube.com/c/ShadySelimTube?view_as=subscribe&sub_confirmation=1)
