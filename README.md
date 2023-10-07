@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <td><a href="https://www.youtube.com/watch?v=_vnGTaL285E">Kotlin &amp; Compose Updates - #KotlinConf23 Global</a><br/>Jun 3, 2023</td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
-▶ [...more YouTube videos](https://www.youtube.com/c/ShadySelimTube?view_as=subscribe&sub_confirmation=1)
+▶ [...more YouTube videos]([YouTube Channel Page]https://www.youtube.com/c/ShadySelimTube?view_as=subscribe&sub_confirmation=1)
 
 ---
 
