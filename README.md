@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
-▶ [...more YouTube videos]([YouTube Channel Page](https://www.youtube.com/c/ShadySelimTube?view_as=subscribe&sub_confirmation=1))
+▶ ([...more YouTube videos](https://www.youtube.com/c/ShadySelimTube?view_as=subscribe&sub_confirmation=1))
 
 ---
 
