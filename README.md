@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [linkedin.com/in/shadyselim](https://www.linkedin.com/in/shadyselim)
 - 😄 Pronouns: Sh(aa)dy
 - ⚡ Fun fact: Spent good time on self branding to make sure any one search for ✨"Shady Selim"✨ to find me instead of "Eminem"'s 'Slim shady'  :)
-- 🤔 I
+- 🤔 "I" :
   - Embrace and love work challenges
   - Constantly learn, relearn, and unlearn current and new technologies
   - Easily adsorb new staff and share it back in a simpler form
