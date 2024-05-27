@@ -27,16 +27,16 @@ Here are some ideas to get you started:
 
 ## 📺 Latest YouTube Videos
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=fhS7OD2xWpM"><img width="140px" src="http://img.youtube.com/vi/fhS7OD2xWpM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fhS7OD2xWpM">Kotlin Cairo KotlinConf 2024 Global</a><br/>Feb 19, 2024</td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=m58XzYViel4"><img width="140px" src="http://img.youtube.com/vi/m58XzYViel4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=m58XzYViel4">Software Design Principles and Techniques</a><br/>May 26, 2024</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=0DZqadqtvGg"><img width="140px" src="http://img.youtube.com/vi/0DZqadqtvGg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0DZqadqtvGg">State of Kotlin 2024</a><br/>May 26, 2024</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=FxvrTgneNis"><img width="140px" src="http://img.youtube.com/vi/FxvrTgneNis/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FxvrTgneNis">Animation in compose 🌟</a><br/>May 26, 2024</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=3d7TE1jb938"><img width="140px" src="http://img.youtube.com/vi/3d7TE1jb938/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3d7TE1jb938">Getting started with KMP and CMP</a><br/>May 26, 2024</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=2YcYWDZJ2hQ"><img width="140px" src="http://img.youtube.com/vi/2YcYWDZJ2hQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2YcYWDZJ2hQ">How and Why to #compose by @Shady-Selim  &lpar;Extended&rpar;</a><br/>Aug 12, 2023</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=5nK5Jy1ej7E"><img width="140px" src="http://img.youtube.com/vi/5nK5Jy1ej7E/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5nK5Jy1ej7E">How and Why to Compose by Shady Selim</a><br/>Aug 2, 2023</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=r5WKQ7F4vpM"><img width="140px" src="http://img.youtube.com/vi/r5WKQ7F4vpM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=r5WKQ7F4vpM">Starting your Compose Multiplatform project from scratch - #KotlinConf23 Global</a><br/>Jun 4, 2023</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=WVSq-CQ0QRU"><img width="140px" src="http://img.youtube.com/vi/WVSq-CQ0QRU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WVSq-CQ0QRU">Compose Multiplatform on iOS - #KotlinConf23 Global</a><br/>Jun 4, 2023</td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
