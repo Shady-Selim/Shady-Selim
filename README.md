@@ -57,16 +57,10 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shady-Selim&hide=html,css&theme=dracula)](https://github.com/Shady-Selim/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&username=Shady-Selim" height="150" alt="languages graph"  />
+</div>
 
 [![Shady Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shady-Selim&theme=radical)](https://github.com/Shady-Selim/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Shady-Selim" height="150" alt="stats graph"  />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Shady-Selim" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&username=Shady-Selim" height="150" alt="languages graph"  />
-</div>
-
-<div 
-  align="center"
-  href="https://stardev.io/developers/Shady-Selim">
-<img alt="Check out osamasayed585&apos;s profile on stardev.io" src="https://stardev.io/developers/Shady-Selim/badge/languages/country.svg" />
-</div>
+[![Check out Shady-Selim's profile on stardev.io](https://stardev.io/developers/Shady-Selim/badge/languages/global.svg)](https://stardev.io/developers/Shady-Selim)
