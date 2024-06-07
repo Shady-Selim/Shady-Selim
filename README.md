@@ -66,3 +66,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Shady-Selim" height="150" alt="stats graph"  />
 
 [![Check out Shady-Selim's profile on stardev.io](https://stardev.io/developers/Shady-Selim/badge/languages/global.svg)](https://stardev.io/developers/Shady-Selim)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shady-Selim&" alt="streak-stats" />
