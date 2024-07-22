@@ -29,16 +29,16 @@ Here are some ideas to get you started:
 
 ## 📺 Latest YouTube Videos
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=m58XzYViel4"><img width="320" height="180" src="https://img.youtube.com/vi/m58XzYViel4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=m58XzYViel4">Software Design Principles and Techniques</a><br/>May 26, 2024</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=0DZqadqtvGg"><img width="320" height="180" src="https://img.youtube.com/vi/0DZqadqtvGg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0DZqadqtvGg">State of Kotlin 2024</a><br/>May 26, 2024</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=FxvrTgneNis"><img width="320" height="180" src="https://img.youtube.com/vi/FxvrTgneNis/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FxvrTgneNis">Animation in compose 🌟</a><br/>May 26, 2024</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=3d7TE1jb938"><img width="320" height="180" src="https://img.youtube.com/vi/3d7TE1jb938/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3d7TE1jb938">Getting started with KMP and CMP</a><br/>May 26, 2024</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=2YcYWDZJ2hQ"><img width="320" height="180" src="https://img.youtube.com/vi/2YcYWDZJ2hQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2YcYWDZJ2hQ">How and Why to #compose by @Shady-Selim  &lpar;Extended&rpar;</a><br/>Aug 12, 2023</td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=EUTw0R7PpgY"><img width="320" height="180" src="https://img.youtube.com/vi/EUTw0R7PpgY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EUTw0R7PpgY">Multiplatform App Design with KMP and Compose - by Ahmed Adel Ismail</a><br/>Jul 20, 2024</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=z1OCpBTk6hQ"><img width="320" height="180" src="https://img.youtube.com/vi/z1OCpBTk6hQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=z1OCpBTk6hQ">Animation in Compose by Muhammad Sayed</a><br/>Jul 20, 2024</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=RQmOj--fbnw"><img width="320" height="180" src="https://img.youtube.com/vi/RQmOj--fbnw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=RQmOj--fbnw">Merging SwiftUI and Jetpack Compose Without a Hitch! - by Qamar A. Safadi</a><br/>Jul 20, 2024</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=-oI2oAC8e5w"><img width="320" height="180" src="https://img.youtube.com/vi/-oI2oAC8e5w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-oI2oAC8e5w">State of Kotlin 2024 by Shady Selim</a><br/>Jul 20, 2024</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=7dVaacOikqw"><img width="320" height="180" src="https://img.youtube.com/vi/7dVaacOikqw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7dVaacOikqw">KotlinConf&#39;24 Key Takeaways from Copenhagen to You!</a><br/>Jul 20, 2024</td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
