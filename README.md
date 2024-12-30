@@ -29,16 +29,16 @@ Here are some ideas to get you started:
 
 ## 📺 Latest YouTube Videos
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=EUTw0R7PpgY"><img width="320" height="180" src="https://img.youtube.com/vi/EUTw0R7PpgY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=AGDeozNh0z4"><img width="320" height="180" src="https://img.youtube.com/vi/AGDeozNh0z4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AGDeozNh0z4">Difference Between a Programmer and SWE - Marwan Mohamed</a><br/>Dec 29, 2024</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=0lCNLIP0zv0"><img width="320" height="180" src="https://img.youtube.com/vi/0lCNLIP0zv0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0lCNLIP0zv0">The Face of the Web: How We Got Here and Where we&#39;re Headed - Khaled Mostafa</a><br/>Dec 29, 2024</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=cq-R5XGIES8"><img width="320" height="180" src="https://img.youtube.com/vi/cq-R5XGIES8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cq-R5XGIES8">[APIs 101] Understanding Modern API Choices &lpar;REST, GraphQL, gRPC&rpar; - Yahya ElAraby</a><br/>Dec 29, 2024</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=ocFOVLhmYyg"><img width="320" height="180" src="https://img.youtube.com/vi/ocFOVLhmYyg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ocFOVLhmYyg">Android Development in 2025 - Shady Selim</a><br/>Dec 28, 2024</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=EUTw0R7PpgY"><img width="320" height="180" src="https://img.youtube.com/vi/EUTw0R7PpgY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EUTw0R7PpgY">Multiplatform App Design with KMP and Compose - by Ahmed Adel Ismail</a><br/>Jul 20, 2024</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=z1OCpBTk6hQ"><img width="320" height="180" src="https://img.youtube.com/vi/z1OCpBTk6hQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=z1OCpBTk6hQ">Animation in Compose by Muhammad Sayed</a><br/>Jul 20, 2024</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=RQmOj--fbnw"><img width="320" height="180" src="https://img.youtube.com/vi/RQmOj--fbnw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=RQmOj--fbnw">Merging SwiftUI and Jetpack Compose Without a Hitch! - by Qamar A. Safadi</a><br/>Jul 20, 2024</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=-oI2oAC8e5w"><img width="320" height="180" src="https://img.youtube.com/vi/-oI2oAC8e5w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-oI2oAC8e5w">State of Kotlin 2024 by Shady Selim</a><br/>Jul 20, 2024</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=7dVaacOikqw"><img width="320" height="180" src="https://img.youtube.com/vi/7dVaacOikqw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7dVaacOikqw">KotlinConf&#39;24 Key Takeaways from Copenhagen to You!</a><br/>Jul 20, 2024</td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
