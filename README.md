@@ -29,16 +29,16 @@ Here are some ideas to get you started:
 
 ## 📺 Latest YouTube Videos
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=AGDeozNh0z4"><img width="320" height="180" src="https://img.youtube.com/vi/AGDeozNh0z4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AGDeozNh0z4">Difference Between a Programmer and SWE - Marwan Mohamed</a><br/>Dec 29, 2024</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=0lCNLIP0zv0"><img width="320" height="180" src="https://img.youtube.com/vi/0lCNLIP0zv0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0lCNLIP0zv0">The Face of the Web: How We Got Here and Where we&#39;re Headed - Khaled Mostafa</a><br/>Dec 29, 2024</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=cq-R5XGIES8"><img width="320" height="180" src="https://img.youtube.com/vi/cq-R5XGIES8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cq-R5XGIES8">[APIs 101] Understanding Modern API Choices &lpar;REST, GraphQL, gRPC&rpar; - Yahya ElAraby</a><br/>Dec 29, 2024</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ocFOVLhmYyg"><img width="320" height="180" src="https://img.youtube.com/vi/ocFOVLhmYyg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ocFOVLhmYyg">Android Development in 2025 - Shady Selim</a><br/>Dec 28, 2024</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=EUTw0R7PpgY"><img width="320" height="180" src="https://img.youtube.com/vi/EUTw0R7PpgY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EUTw0R7PpgY">Multiplatform App Design with KMP and Compose - by Ahmed Adel Ismail</a><br/>Jul 20, 2024</td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=-LxsYUqQqeI"><img width="320" height="180" src="https://img.youtube.com/vi/-LxsYUqQqeI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-LxsYUqQqeI">Compose Previews &lpar;Do it right&rpar; – Shady Selim</a><br/>Apr 27, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=em5QFLS0tFk"><img width="320" height="180" src="https://img.youtube.com/vi/em5QFLS0tFk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=em5QFLS0tFk">AI in a Software Engineer’s Life – Marwan Mohamed</a><br/>Apr 27, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=M3UlzRBv2xk"><img width="320" height="180" src="https://img.youtube.com/vi/M3UlzRBv2xk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=M3UlzRBv2xk">Build AI First Mindset - Tarek Elywah</a><br/>Apr 27, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=AVVQIDanduE"><img width="320" height="180" src="https://img.youtube.com/vi/AVVQIDanduE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AVVQIDanduE">Compose Previews &lpar;Do it right&rpar; – Shady Selim</a><br/>Apr 26, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=mqBR6cv2nxs"><img width="320" height="180" src="https://img.youtube.com/vi/mqBR6cv2nxs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mqBR6cv2nxs">Compose Previews &lpar;Do it right&rpar; – Shady Selim</a><br/>Apr 26, 2025</td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
