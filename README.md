@@ -29,16 +29,16 @@ Here are some ideas to get you started:
 
 ## 📺 Latest YouTube Videos
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=-LxsYUqQqeI"><img width="320" height="180" src="https://img.youtube.com/vi/-LxsYUqQqeI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=kghwA_3Ep8A"><img width="320" height="180" src="https://img.youtube.com/vi/kghwA_3Ep8A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kghwA_3Ep8A">TRUTH HEARTS: The Rise and Fall of Flutter</a><br/>Sep 13, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=RLXOk3X356U"><img width="320" height="180" src="https://img.youtube.com/vi/RLXOk3X356U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=RLXOk3X356U">Google AI Edge</a><br/>Sep 13, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=u2DY8_zABkc"><img width="320" height="180" src="https://img.youtube.com/vi/u2DY8_zABkc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=u2DY8_zABkc">Next-Gen Development: Supercharging Software with Generative AI using Vertex AI</a><br/>Sep 13, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=-LxsYUqQqeI"><img width="320" height="180" src="https://img.youtube.com/vi/-LxsYUqQqeI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-LxsYUqQqeI">Compose Previews &lpar;Do it right&rpar; – Shady Selim</a><br/>Apr 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=em5QFLS0tFk"><img width="320" height="180" src="https://img.youtube.com/vi/em5QFLS0tFk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=em5QFLS0tFk">AI in a Software Engineer’s Life – Marwan Mohamed</a><br/>Apr 27, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=M3UlzRBv2xk"><img width="320" height="180" src="https://img.youtube.com/vi/M3UlzRBv2xk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=M3UlzRBv2xk">Build AI First Mindset - Tarek Elywah</a><br/>Apr 27, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=AVVQIDanduE"><img width="320" height="180" src="https://img.youtube.com/vi/AVVQIDanduE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AVVQIDanduE">Compose Previews &lpar;Do it right&rpar; – Shady Selim</a><br/>Apr 26, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=mqBR6cv2nxs"><img width="320" height="180" src="https://img.youtube.com/vi/mqBR6cv2nxs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mqBR6cv2nxs">Compose Previews &lpar;Do it right&rpar; – Shady Selim</a><br/>Apr 26, 2025</td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
