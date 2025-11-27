@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ## 🧰 Toolbox
 
-<span style='color: white'>
+<div style="background-color:white">
 <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/android-studio-logo.svg" alt="android studio Logo" width="150" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="kotlin Logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="swift Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/apple-ios.svg" alt="apple-ios Logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma Logo" width="40" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/youtube.svg" alt="youtube Logo" width="150" height="50"/> 
-</span>
+</div>
 
 ---
 
