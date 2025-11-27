@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 <img src="https://github-profile-trophy.vercel.app/?username=Shady-Selim" alt="trophies" />
 
 ## 🧰 Toolbox
-
-<div style="background-color:white">
 <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/android-studio-logo.svg" alt="android studio Logo" width="150" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="kotlin Logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="swift Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/apple-ios.svg" alt="apple-ios Logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma Logo" width="40" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/youtube.svg" alt="youtube Logo" width="150" height="50"/> 
-</div>
 
 ---
 
@@ -62,7 +59,6 @@ Here are some ideas to get you started:
 ## &#x1f4c8; My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shady-Selim&hide=html,css&theme=dracula)](https://github.com/Shady-Selim/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&username=Shady-Selim" height="150" alt="languages graph"  />
-</div>
 
 [![Shady Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shady-Selim&theme=radical)](https://github.com/Shady-Selim/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Shady-Selim" height="150" alt="stats graph"  />
