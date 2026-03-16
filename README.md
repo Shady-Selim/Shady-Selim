@@ -28,16 +28,16 @@ Here are some ideas to get you started:
 
 ## 📺 Latest YouTube Videos
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=gqYELMVwzhI"><img width="320" height="180" src="https://img.youtube.com/vi/gqYELMVwzhI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=VUWaw1_PCW8"><img width="320" height="180" src="https://img.youtube.com/vi/VUWaw1_PCW8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VUWaw1_PCW8">Hiring AI Agents for Your Next Engineering Team</a><br/>Mar 15, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=Pv2L8Kn-XaA"><img width="320" height="180" src="https://img.youtube.com/vi/Pv2L8Kn-XaA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Pv2L8Kn-XaA">Intro to Google Antigravity</a><br/>Mar 15, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=NX6f8bc9US4"><img width="320" height="180" src="https://img.youtube.com/vi/NX6f8bc9US4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NX6f8bc9US4">Gemini Nano: Building with On-Device Gen AI</a><br/>Mar 15, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=gqYELMVwzhI"><img width="320" height="180" src="https://img.youtube.com/vi/gqYELMVwzhI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gqYELMVwzhI">Ship it Faster – Android CI/CD with GitHub Actions</a><br/>Feb 15, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=A2A_sVZyhAk"><img width="320" height="180" src="https://img.youtube.com/vi/A2A_sVZyhAk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=A2A_sVZyhAk">AI and the End of Programming Learning</a><br/>Feb 15, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=kghwA_3Ep8A"><img width="320" height="180" src="https://img.youtube.com/vi/kghwA_3Ep8A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kghwA_3Ep8A">TRUTH HEARTS: The Rise and Fall of Flutter</a><br/>Sep 13, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=RLXOk3X356U"><img width="320" height="180" src="https://img.youtube.com/vi/RLXOk3X356U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=RLXOk3X356U">Google AI Edge</a><br/>Sep 13, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=u2DY8_zABkc"><img width="320" height="180" src="https://img.youtube.com/vi/u2DY8_zABkc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=u2DY8_zABkc">Next-Gen Development: Supercharging Software with Generative AI using Vertex AI</a><br/>Sep 13, 2025</td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
