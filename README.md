@@ -28,16 +28,16 @@ Here are some ideas to get you started:
 
 ## 📺 Latest YouTube Videos
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=t-l_QcBQ9fo"><img width="320" height="180" src="https://img.youtube.com/vi/t-l_QcBQ9fo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=R1AX6sy_H-o"><img width="320" height="180" src="https://img.youtube.com/vi/R1AX6sy_H-o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=R1AX6sy_H-o">Firebase AI Logic</a><br/>Jul 26, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=_xwVmVJY1xE"><img width="320" height="180" src="https://img.youtube.com/vi/_xwVmVJY1xE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_xwVmVJY1xE">Write Once, Run Anywhere &lpar;The Right Way&rpar;: KMP &amp; CMP vs. The World</a><br/>Jul 26, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=oebrbZWUjZo"><img width="320" height="180" src="https://img.youtube.com/vi/oebrbZWUjZo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oebrbZWUjZo">AI and IT Jobs Threats</a><br/>Jul 26, 2026</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=t-l_QcBQ9fo"><img width="320" height="180" src="https://img.youtube.com/vi/t-l_QcBQ9fo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=t-l_QcBQ9fo">Stop Hating Diagrams: How to finally understand and use them the right way</a><br/>May 1, 2026</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=FlBTKtlZNb0"><img width="320" height="180" src="https://img.youtube.com/vi/FlBTKtlZNb0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FlBTKtlZNb0">From Code to Production: Supercharging Your Android Workflow with AI</a><br/>May 1, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=xapGBTLWFKI"><img width="320" height="180" src="https://img.youtube.com/vi/xapGBTLWFKI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xapGBTLWFKI">Flutter Agentic UIs - Build Interfaces That Think</a><br/>May 1, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=oX3YuLePXP4"><img width="320" height="180" src="https://img.youtube.com/vi/oX3YuLePXP4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=oX3YuLePXP4">From Campus to Company: Succeeding in Tech in the AI Era</a><br/>May 1, 2026</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=VUWaw1_PCW8"><img width="320" height="180" src="https://img.youtube.com/vi/VUWaw1_PCW8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VUWaw1_PCW8">Hiring AI Agents for Your Next Engineering Team</a><br/>Mar 15, 2026</td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
