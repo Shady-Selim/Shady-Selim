@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 
 [![Check out Shady-Selim's profile on stardev.io](https://stardev.io/developers/Shady-Selim/badge/languages/global.svg)](https://stardev.io/developers/Shady-Selim)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shady-Selim&" alt="streak-stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shady-Selim" alt="streak-stats" />
